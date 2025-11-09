@@ -1,6 +1,6 @@
 # Escape From Uni
 
-Welcome! This GitHub Pages site hosts the project documentation and a downloadable build.
+Your campus breakout begins here. Play Escape From Uni.
 
 # Team Members
 - Ben Leaver
