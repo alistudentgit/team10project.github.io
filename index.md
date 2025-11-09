@@ -2,6 +2,15 @@
 
 Welcome! This GitHub Pages site hosts the project documentation and a downloadable build.
 
+# Team Members
+- Ben Leaver
+- Ali Tekin
+- Chichun Park
+- Faras Hbal
+- Gergely Gal
+- Hux Stevenson
+- Utkarsh Singh
+
 ## Downloads
 
 - **Game JAR:** [Escape_From_Uni-1.0.0.jar](docs/Escape_From_Uni-1.0.0.jar)
@@ -16,5 +25,3 @@ Welcome! This GitHub Pages site hosts the project documentation and a downloadab
 - [Risk Management (Risk1.pdf)](docs/Risk1.pdf)
 
 ---
-
-This site is generated with **GitHub Pages** and Markdown.
