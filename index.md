@@ -24,6 +24,9 @@ Your campus breakout begins here. Play Escape From Uni.
 - [Architecture (Arch1.pdf)](docs/Arch1.pdf)
 - [Risk Management (Risk1.pdf)](docs/Risk1.pdf)
 
-# CRC Cards
+## GitHub Repository
+https://github.com/alistudentgit/team10project
+
+## CRC Cards
 https://miro.com/app/board/uXjVJ5rSt4U=/?share_link_id=875078073269
 ---
